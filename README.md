@@ -7,10 +7,10 @@
  Un desarrollador full-stack  👨‍💻.Siempre me llamo la atención la tecnología, hace años me dedico a darle mantenimiento o reparando computadoras, sin embargo, en el camino de la programación empecé a comienzos del 2022 🚀¿Y hasta dónde pienso llegar? Sky in the limit…⛅</div>  
   <hr/>
 
-- 🔭 Actualmente estoy en el puesto de T.A en el bootcamp soyHenry.  
+- 🔭 Me encuentro como T.A en el bootcamp soyHenry.  
   
 
-- 🌱 Actualmente estoy aprendiendo Next.js.
+- 🌱 Aprendiendo Next.js.
   
 
 - ⚡ Dato curioso: cuando quiero mejorar el codigo  suelo tener copias de las copias 😅.
@@ -68,10 +68,3 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <span>✉ walteralejandrogordillo@gmail.com</span>
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
